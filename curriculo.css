@@ -1,0 +1,102 @@
+
+#area-form{
+
+	width: 900px;
+	height: 1420px;
+	border: 1px solid black;
+	margin: 0 15% 0 10%;
+}
+
+#area-cabeçalho{
+
+	margin: 0% 0% 0% 0%;
+	height: 7%; 
+	
+}
+
+
+#area-objetivo{
+
+	height: 5%;
+	margin: 0% 0% 0% 0%;
+	
+
+}
+
+#area-educacao{
+
+	margin: 0% 0% 0% 0%;
+	height: 6%; 
+	
+}
+
+#area-idiomas{
+
+	margin: 0% 0% 0% 0%;
+	height: 6%; 
+	
+}
+
+#area-competencias{
+
+	margin: 0% 0% 0% 0%;
+	height: 20%; 
+	
+}
+
+#area-experiencia{
+	margin: 0% 0% 0% 0%;
+	height: 13%; 
+	
+
+}
+
+#area-rotina{
+
+	margin: 0% 0% 0% 0%;
+	height: 23%;
+	
+}
+
+
+
+.nome{
+
+	font-size: 40px;
+	border-bottom: 2px solid black;
+	margin:  0% 0% 0% 0%;
+	padding-left: 3%;
+}
+
+.foto{
+
+	position: absolute;
+	padding-right: 2%;
+	top: 1.7%;
+	left: 62.6%;
+	clip: rect(0px,200px,240px,0px);
+
+}
+
+.endereco{
+
+	font-size: 13px;
+	width: 80%;
+	padding-left: 3%;
+}
+
+.lista-cabeçalho{
+
+	color: gray;
+	margin-left: 2.5%;
+}
+
+.lista-item{
+	font-size: 15px;
+	margin-bottom: 1%;
+
+}
+
+
+
+
